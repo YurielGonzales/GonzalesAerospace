@@ -1,0 +1,175 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: #454545;
+    padding: 10px;
+	border-radius: 0 0 0 10px;
+	z-index:1;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    display: inline-block;
+    margin-right: 10px;
+	font-family:Arial Black;
+}
+
+.navbar a {
+    display: block;
+    color: White;
+    text-decoration: none;
+}
+.navbar a:hover{
+	color: orange;
+	transition: 1s;
+}
+
+body{
+	background-color:#212A3E;
+	color:White;
+	font-family:arial;
+	text-decoration:none;
+}
+.about{
+	text-align:center;
+	margin-top:100px;
+}
+.footer {
+  position: relative;
+  top: 1000px;
+  left: 0;
+  bottom: 0;
+  height: 70px;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  font-family: Arial;
+  padding: 0px;
+  overflow:hidden;
+  text-align:center;
+  
+  
+}
+#me262{
+	height:200px;
+	width :400px;
+	position:relative;
+	float:right;
+	bottom:150px;
+	right:20px;
+	
+}
+#mestuff{
+	margin-top:200px;
+	position:relative;
+	right:200px;
+	top:20px;
+	text-align:center;
+}
+#migstuff{
+	position:relative;
+	text-align:center;
+	top:230px;
+}
+#mig15{
+	height:200px;
+	width:400px;
+	position:relative;
+	float:right;
+	top:50px;
+	left:380px;
+	
+}
+#cebustuff{
+	position:absolute;
+	text-align:center;
+	top:1000px;
+	left:230px;
+}
+#cebu{
+	height:200px;
+	width:400px;
+	position:relative;
+	float:right;
+	top:400px;
+	left:780px;
+}
+#f35stuff{
+	position:absolute;
+	text-align:center;
+	top:1400px;
+	left:150px;
+}
+#f35{
+	position:relative;
+	height:200px;
+	width:400px;
+	top:600px;
+	float:right;
+	right:20px;
+}
+#compare{
+	position:absolute;
+	top:1700px;
+	text-align:center;
+	left:550px;
+}
+#title{
+	font-size:50px;
+	float:center;
+	text-align:center;
+}
+#sputstuff{
+	margin-top:200px;
+	position:relative;
+	right:200px;
+	top:20px;
+	text-align:center;
+}
+#sputnik{
+	height:200px;
+	width :400px;
+	position:relative;
+	float:right;
+	bottom:180px;
+	right:20px;
+}
+#apollostuff{
+	position:relative;
+	text-align:center;
+	top:230px;
+}
+#apollo{
+	height:200px;
+	width:400px;
+	position:relative;
+	float:right;
+	top:50px;
+	left:380px;
+}
+#starstuff{
+	position:absolute;
+	text-align:center;
+	top:1000px;
+	left:190px;
+}
+#starship{
+	height:200px;
+	width:400px;
+	position:relative;
+	float:right;
+	top:400px;
+	left:780px;
+}
+#compare2{
+	position:absolute;
+	top:1300px;
+	text-align:center;
+	left:550px;
+}
